@@ -26,13 +26,13 @@ import "./styles.css";
 const siteProps = {
   name: "Mritunjay Dwivedi",
   title: "Android Developer",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  email: "mritunjay.lu.9@gmail.com",
+  gitHub: "https://github.com/Mj9909",
+  instagram: "https://www.instagram.com/ujjwal__9909/",
+  linkedIn: "https://www.linkedin.com/in/mjlko9909/",
+  medium: "https://medium.com/@mritunjay.lu.9",
+  twitter: "https://twitter.com/108Ji",
+  youTube: "https://www.youtube.com/channel/UCtTV34cm0m0Vpd2L-AP0bYw",
 };
 
 const primaryColor = "#4E567E";
